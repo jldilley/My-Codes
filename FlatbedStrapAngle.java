@@ -25,12 +25,12 @@ public class FlatbedStrapAngle
                 System.out.print("Please enter the approximate angle of the strap--> ");
                 Angle = Input.nextInt();
                 if(Angle >= 30)
-                    System.out.println("Angle is too sharp. Please add protection between the strap and the contact point. ");
+                    System.out.println("Angle is too sharp. Please add protection between the strap and the contact point.");
                     else
                     System.out.println("Angle is ok. Please drive safe.");
             }    
             else if (SharpEdge !=78)
-                System.out.println("Unrecognized input. Please enter Y for yes or N for no. ");
+                System.out.println("Unrecognized input. Please rerun the program and enter Y for yes or N for no.");
             else
                 System.out.println("Cool beans. Please drive safe. ");
     }
