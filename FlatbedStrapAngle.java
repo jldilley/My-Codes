@@ -36,17 +36,17 @@ public class FlatbedStrapAngle
     }
 }
 /* ********************Program Output***************************************
-Is the strap over a sharp edge? Enter Y for Yes or N for no Y
+Is the strap over a sharp edge? Enter Y for Yes or N for no--> Y
 Please enter the approximate angle of the strap--> 31
 Angle is too sharp. Please add protection between the strap and the contact point.
 
-Is the strap over a sharp edge? Enter Y for Yes or N for no Y
+Is the strap over a sharp edge? Enter Y for Yes or N for no--> Y
 Please enter the approximate angle of the strap--> 29
 Angle is ok. Please drive safe.
 
-Is the strap over a sharp edge? Enter Y for Yes or N for no N
+Is the strap over a sharp edge? Enter Y for Yes or N for no--> N
 Cool beans. Please drive safe. 
 
-Is the strap over a sharp edge? Enter Y for Yes or N for no p
-Unrecognized input. Please enter Y for yes or N for no. 
+Is the strap over a sharp edge? Enter Y for Yes or N for no--> p
+Unrecognized input. Please rerun the program enter Y for yes or N for no. 
 */
