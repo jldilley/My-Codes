@@ -1,6 +1,6 @@
 /*Name: Joshua Dilley
 Date:02/07/2025
-Source Code:FlabedStrapAngle.java
+Source Code:FlatbedStrapAngle.java
 Action: I've noticed that whenever you strap over a sharp piece of freight, 
 so long as the angle of downforce is less than thirty degrees, the strap 
 tends to be fine in transit. Any angle sharper than that can cause problems.
