@@ -5,7 +5,8 @@ Action: I wrote this program based on a recurring problem in my last two
 algebra classes. It uses the formula for the relative maximum of a vertex of
 a parabola in order to calculate length and width of a fenced in area. The 
 formula calculates in order to maximize area and assumes that one side is 
-bordered by something like a river or a wall.
+bordered by something like a river or a wall. It crashes if you enter anything
+other than a number.
 
 ****************************Algortihm************************************
 
@@ -61,6 +62,9 @@ The perimeter of your fenced in area is 253.0
 The maximum area of your fenced in land is 8001.125
 The length of you fencing is 126.5
 The width of your fencing is 63.25 
+
+Please enter the perimeter--> -9
+Input not recognized.
 */
 
 
