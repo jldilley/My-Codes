@@ -19,7 +19,7 @@ public class TruthTable
         System.out.print("Is P true or false? T for true, F for false--> ");
         P = Input.next().charAt(0);
         System.out.print("Is Q true or false? T for true, F for false--> ");
-        Q = Input.next().charAt(0);//Response = Input.next().charAt(0);
+        Q = Input.next().charAt(0);
         System.out.println(" ");
         
         System.out.print("P and Q: Intersection |  ");System.out.println("P or Q: Union");
