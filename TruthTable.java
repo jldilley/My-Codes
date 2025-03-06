@@ -1,7 +1,7 @@
 /*Name: Joshua Dilley
 Date: 03/05/2025
 Source Code: TruthTable.java
-Action: A truth table that displays results for intersection and union of two statements.
+Action: A truth table that displays results for conjunction and disjuntion of two statements.
 */
 
 package my.codes;
@@ -22,7 +22,7 @@ public class TruthTable
         Q = Input.next().charAt(0);
         System.out.println(" ");
         
-        System.out.print("P and Q: Intersection |  ");System.out.println("P or Q: Union");
+        System.out.print("P and Q: Conjunction |  ");System.out.println("P or Q: Disjunction");
         System.out.println("-----------------------------------");
         
         do
@@ -51,7 +51,7 @@ public class TruthTable
                 System.out.print("Is Q true or false? T for true, F for false--> ");
                 Q = Input.next().charAt(0);
                 System.out.println(" ");
-                System.out.print("P and Q: Intersection |  ");System.out.println("P or Q: Union");
+                System.out.print("P and Q: Conjunction |  ");System.out.println("P or Q: Disjunction");
                 System.out.println("-----------------------------------");
             }    
             
@@ -63,7 +63,7 @@ public class TruthTable
 Is P true or false? T for true, F for false--> T
 Is Q true or false? T for true, F for false--> T
  
-P and Q: Intersection |  P or Q: Union
+P and Q: Conjunction |  P or Q: Disjunction
 -----------------------------------
 T and T: True         |  T or T: True 
  
@@ -72,7 +72,7 @@ Would you like to test another statement? N to leave program. Any other key to c
 Is P true or false? T for true, F for false--> T
 Is Q true or false? T for true, F for false--> F
  
-P and Q: Intersection |  P or Q: Union
+P and Q: Conjunction |  P or Q: Disjunction
 -----------------------------------
 T and F: False        |  T or F: True 
 
@@ -81,7 +81,7 @@ Would you like to test another statement? N to leave program. Any other key to c
 Is P true or false? T for true, F for false--> F
 Is Q true or false? T for true, F for false--> T
  
-P and Q: Intersection |  P or Q: Union
+P and Q: Conjunction |  P or Q: Disjunction
 -----------------------------------
 F and T: False        |  F or T: True 
  
@@ -90,7 +90,7 @@ Would you like to test another statement? N to leave program. Any other key to c
 Is P true or false? T for true, F for false--> F
 Is Q true or false? T for true, F for false--> F
  
-P and Q: Intersection |  P or Q: Union
+P and Q: Conjunction |  P or Q: Disjunction
 -----------------------------------
 F and F: False        |  F or F: False 
  
