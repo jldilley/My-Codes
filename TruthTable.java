@@ -1,7 +1,7 @@
 /*Name: Joshua Dilley
 Date: 03/05/2025
 Source Code: TruthTable.java
-Action: Create a program that uses symbolic logic to test for fallacy.
+Action: A truth table that displays results for intersection and union of two statements.
 */
 
 package my.codes;
