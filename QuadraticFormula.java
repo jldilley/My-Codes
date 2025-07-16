@@ -1,6 +1,6 @@
 /*Name: Joshua Dilley
 Date: 07/15/2025
-Source Code: QuadraticEquation.java
+Source Code: QuadraticFormula.java
 Action: Input coefficients of a polynomial and calculate the values of X using the 
 quadratic equation. Returns "no REAL answers" if the solutions are complex.
 
@@ -9,7 +9,7 @@ package absolutejava;
 
 import java.util.*;
 
-public class QuadraticEquation 
+public class QuadraticFormula 
 {
     public static final int DISCRIMINANT_CONSTANT = 4;
     public static final int DENOMINATOR = 2;
