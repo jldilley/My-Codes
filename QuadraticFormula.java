@@ -1,7 +1,7 @@
 /*Name: Joshua Dilley
 Date: 07/15/2025
 Source Code: QuadraticFormula.java
-Action: Input coefficients of a polynomial and calculate the values of X using the 
+Action: Input coefficients of a quadratic equation and calculate the values of X using the 
 quadratic equation. Returns "no REAL answers" if the solutions are complex.
 
  */
