@@ -24,5 +24,9 @@ public class StringConcatenate
     }
 }
 /* **************************Program Output************************************
+Trial 1: Hello World!
+Trial 2: Hello World!
+Trial 3: Hello World!
+Trial 4: Hello World!
 
 */
